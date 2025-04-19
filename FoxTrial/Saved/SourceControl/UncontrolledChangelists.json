@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/BP_FoxCharacter.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Polygon_Dog/Animation/Locomotion/AS_Dog_Locomotion_Walking.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Polygon_Dog/Animation/Locomotion/AS_Dog_Locomotion_Running.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Polygon_Dog/Animation/Locomotion/BS_Fox.uasset",
 				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
 			]
