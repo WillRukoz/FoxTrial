@@ -6,11 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Levels/GuardSystem.umap",
-				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/BT_NPC.uasset",
-				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/BB_Patroll.uasset",
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/Blueprints/BP_NPC.uasset",
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/Blueprints/AIC_NPC.uasset",
-				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/Blueprints/BP_Scientis.uasset",
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/Blueprints/BP_Scientist.uasset",
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/Behaiviour/Patroll.uasset",
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/Behaiviour/BT_NPC.uasset",
@@ -18,6 +15,10 @@
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/Blueprints/Waypoints.uasset",
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/Behaiviour/WaypointLocation.uasset",
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/Behaiviour/FinishedPatroll.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/Blueprints/PatrolEnd.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/BT_NPC.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/BB_Patroll.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/EnemyAI/Blueprints/BP_Scientis.uasset",
 				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
 			]
