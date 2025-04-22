@@ -78,8 +78,7 @@ DerivedDataCache/*
 
 # Capturas y screenshots automáticas
 *.screenshot
-*.png
-*.jpg
+
 
 # Archivos binarios temporales
 *.bin
