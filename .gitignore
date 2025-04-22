@@ -72,3 +72,30 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Logs
+*.log
+
+# Capturas y screenshots automáticas
+*.screenshot
+
+
+# Archivos binarios temporales
+*.bin
+*.tmp
+
+# Configuración específica del usuario
+*.user
+*.userprefs
+
+# VSCode project files
+.vscode/
+
+# Archivo de source control que causó conflicto
+Saved/SourceControl/UncontrolledChangelists.json
+
+# Configuración de usuario de Unreal que puede variar en cada PC
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+
+# Carpeta del editor de Visual Studio
+.vs/
