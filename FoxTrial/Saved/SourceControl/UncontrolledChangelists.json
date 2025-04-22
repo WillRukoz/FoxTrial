@@ -5,6 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/C/88/SBTY4F42UHCP0MO0VOQTAS.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/Level_Tutorial.umap",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/E/O2/55LB8T5R939FT1CBC5GXY4.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/D/GD/RBH9M4V16159QQ1NDH10QQ.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/A/P5/MM3ZYFTPKEW9ND0MFMHNVL.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/D/DU/L2DTDNLB6EX16GVK5JZGX9.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/0/U8/ZODI56DGH28BO297VSL7B8.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/7/U0/XFVYISKSOV0Y5WHD17O5PB.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/E/2I/Z8ZE3AMQVDJMWIUIB6SS09.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/9/05/SRM0BXHCPOFD3TWHCV55IM.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/LevelDesing/BP_Door.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Art/Material/M_Vignette.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Gamemode/GM_FoxGameMode.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/C/8A/OE5GIIM8SJJXU327EI4MOI.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Art/Material/M_Vignette_Inst.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Art/Pipes/Mesh/pipe_rampLarge.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/9/PW/ZMZPYNWQC6NGSSZUZ6W98S.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/5/XQ/XFZ8YZQD2HI66H6HK5NPII.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/C/88/SBTY4F42UHCP0MO0VOQTAS.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/A/9Y/AE5A90OUWOG0YQRN98HI05.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/7/YE/L3DUFQGST910GU3QKYWKYJ.uasset",
@@ -146,8 +164,7 @@
 				"G:/GitHub/FoxTrial/FoxTrial/Content/Art/Pipes/Mesh/pipe_cross.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/Art/Pipes/Mesh/pipe_entrance.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/_GENERATED/AG87/Rectangle_0D503C2C.uasset",
-				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/D/LO/I4ZKRD0M00XAU936PCM234.uasset",
-				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/C/88/SBTY4F42UHCP0MO0VOQTAS.uasset"
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level_Tutorial/D/LO/I4ZKRD0M00XAU936PCM234.uasset"
 			]
 		}
 	]
