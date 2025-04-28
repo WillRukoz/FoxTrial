@@ -1,10 +1,10 @@
 # Visual Studio
 .vs/
+*.sln
+*.suo
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
-*.sln
-*.suo
 *.opensdf
 *.sdf
 *.VC.db
@@ -13,13 +13,9 @@
 # VSCode
 .vscode/
 
-# Compilados y temporales
-*.slo
-*.lo
-*.o
+# Compilados y archivos temporales
 *.obj
-*.gch
-*.pch
+*.o
 *.so
 *.dylib
 *.dll
@@ -32,43 +28,46 @@
 *.la
 *.lai
 *.mod
+*.slo
+*.lo
 *.tmp
 *.bin
+*.gch
+*.pch
 *.log
 
-# Archivos generados por el motor de Unreal
+# Archivos generados por el motor de Unreal Engine
 *.xcodeproj
 *.xcworkspace
 
-# Unreal Engine folders
-Binaries/*
-Build/*
-DerivedDataCache/*
-Intermediate/*
-Saved/*
+# Unreal Engine - carpetas de proyecto
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
 
-# Excepciones de Saved y Build
-!Build/*/
+# Unreal Engine - excepciones en Saved y Build
 !Build/**/PakBlacklist*.txt
 !Build/**/*.ico
-!Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 !Saved/SourceControl/UncontrolledChangelists.json
+!Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 
-# Plugins
-Plugins/**/Binaries/*
-Plugins/**/Intermediate/*
+# Plugins - carpetas generadas
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
 
-# Archivos de datos generados
+# Archivos de datos generados para mapas
 *_BuiltData.uasset
 
-
+# Archivos de arte fuente
+SourceArt/**/*.png
+SourceArt/**/*.tga
 
 # Capturas automáticas
 *.screenshot
+Saved/AutoScreenshot.png
 
-# Configuración específica de usuario
+# Configuración de usuario
 *.user
 *.userprefs
-
-# Logs específicos
-FoxTrial/Saved/Logs/FoxTrial.log
