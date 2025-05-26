@@ -1,0 +1,4 @@
+Breadcrumbs 'RHIThread'
+ - ComputeSingleAverageBrightnessFromCubemap
+ - FRDGBuilder::Execute
+ - Frame 245250
