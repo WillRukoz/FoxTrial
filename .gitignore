@@ -99,3 +99,7 @@ Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 
 # Carpeta del editor de Visual Studio
 .vs/
+
+Saved/webcache_*
+Saved/webcache_*
+Saved/webcache_4430/
