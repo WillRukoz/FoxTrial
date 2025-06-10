@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/UI/WBP_OptionsMenu.uasset",
+				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/UI/WBP_MainMenu.uasset",
+				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/Level_MainMenu.umap",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/AlienPlanet/Textures/Ground/T_Ground01_B.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/AlienPlanet/Textures/Ground/T_Ground01_ORDM.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/AlienPlanet/Textures/Ground/T_Ground01_N.uasset",
