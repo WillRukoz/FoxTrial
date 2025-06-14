@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/BP_FoxCharacter.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/Movement.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/FoxGame/EnemyAI/Blueprints/AIC_NPC.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/FoxGame/EnemyAI/Behaiviour/BT_NPC.uasset",
 				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Test_Levels/UltimeMechanics.umap",
 				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/FoxGame/LevelDesing/BP_Door.uasset",
 				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/FoxGame/LevelDesing/BP_MovableBox.uasset",
