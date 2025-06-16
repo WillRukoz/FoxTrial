@@ -115,3 +115,8 @@ FoxTrial/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 FoxTrial/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_c1ff929ae6e37fb4/Default/DDCKey-Editor.txt
 FoxTrial/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 FoxTrial/Intermediate/PipInstall/Lib/site-packages/plugin_site_package.pth
+
+# Unreal Engine debug symbols – no versionar .pdb pesados
+Binaries/**/*.pdb
+FoxTrial/Binaries/Win64/tbbmalloc.pdb
+*.pdb
