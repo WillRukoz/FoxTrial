@@ -1065,7 +1065,7 @@
 "..\Plugins\WorldMetrics\Intermediate\Build\Win64\x64\UnrealGame\Shipping\WorldMetricsCore\Module.WorldMetricsCore.cpp.obj"
 "..\Plugins\WorldMetrics\Intermediate\Build\Win64\x64\UnrealGame\Shipping\CsvMetrics\Module.CsvMetrics.cpp.obj"
 "C:\Users\Usuario\Documents\GitHub\FoxTrial\FoxTrial\Intermediate\Build\Win64\x64\FoxTrial\Shipping\Core\SharedPCH.Core.Project.ValApi.Cpp20.h.obj"
-"C:\Users\Usuario\Documents\GitHub\FoxTrial\FoxTrial\Intermediate\Build\Win64\x64\UnrealGame\Shipping\FoxTrial\FoxTrial.cpp.obj"
+"C:\Users\Usuario\Documents\GitHub\FoxTrial\FoxTrial\Intermediate\Build\Win64\x64\UnrealGame\Shipping\FoxTrial\Module.FoxTrial.cpp.obj"
 "C:\Users\Usuario\Documents\GitHub\FoxTrial\FoxTrial\Intermediate\Build\Win64\x64\FoxTrial\Shipping\FoxTrial-Win64-Shipping.exe\Default.rc2.res"
 "ThirdParty\Intel\TBB\IntelTBB-2019u8\lib\Win64\vc14\tbb.lib"
 "ThirdParty\Intel\TBB\IntelTBB-2019u8\lib\Win64\vc14\tbbmalloc.lib"
