@@ -120,3 +120,5 @@ FoxTrial/Intermediate/PipInstall/Lib/site-packages/plugin_site_package.pth
 Binaries/**/*.pdb
 FoxTrial/Binaries/Win64/tbbmalloc.pdb
 *.pdb
+FoxTrial/Saved/AutoScreenshot.png
+FoxTrial/Saved/AutoScreenshot.png
