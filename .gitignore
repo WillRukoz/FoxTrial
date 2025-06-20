@@ -122,3 +122,5 @@ FoxTrial/Binaries/Win64/tbbmalloc.pdb
 *.pdb
 FoxTrial/Saved/AutoScreenshot.png
 FoxTrial/Saved/AutoScreenshot.png
+/FoxTrial/Saved
+FoxTrial/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
