@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/UI/WBP_OptionsMenu.uasset",
+				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/Input/IMC_Fox.uasset",
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/BP_FoxCharacter.uasset",
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/TrueLevel2.umap",
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/FoxGame/EnemyAI/Behaiviour/BT_NPC.uasset",
