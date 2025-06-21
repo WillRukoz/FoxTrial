@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/UI/WBP_OptionsMenu.uasset",
+				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/Input/IMC_Fox.uasset",
+				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/Movies/GameIntro/LS_Intro.uasset",
+				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Game/7/P9/E9177KXWXDUG6GQEQH9AMW.uasset",
+				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Game/1/XA/8C1TXXF4CGS3DIVMDKKH1X.uasset",
+				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Game/3/SW/0P1E0UC0EP1VFT1GVYW4AE.uasset",
+				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/Game.umap",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Male.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/PolygonSciFiSpace/Meshes/Characters/SK_Chr_Medic_Male_01.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Male_Skeleton.uasset",
@@ -116,9 +123,7 @@
 				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Art/Material/Button/M_Bottunt.uasset",
 				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/Level8.umap",
 				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/FoxGame/LevelDesing/BP_DoorButton.uasset",
-				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/LevelDesignKit/Meshes/Mechanics/Blueprints/BP_3m_Lift_4m_Height.uasset",
-				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/UI/WBP_OptionsMenu.uasset",
-				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/Input/IMC_Fox.uasset"
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/LevelDesignKit/Meshes/Mechanics/Blueprints/BP_3m_Lift_4m_Height.uasset"
 			]
 		}
 	]
