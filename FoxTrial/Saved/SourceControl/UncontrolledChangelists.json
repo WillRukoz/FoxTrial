@@ -61,6 +61,15 @@
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/FoxGame/LevelDesing/BlockingMeshes/SM_Alcantarilla.uasset",
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/Level3.umap",
 				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/BP_BabyFox.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/FoxGame/EnemyAI/Animations/ABP_Scientist.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/BabyFox/BP_BabyFox.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/BabyFox/AIC_BabyFox.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/BabyFox/BP_FoxBaby.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/BabyFox/Behaviour/BT_BabyFox.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Test_Levels/Tryout2.umap",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/BabyFox/BPI_BabyFox.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/BabyFox/Behaviour/BB_BabyFox.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/FoxGame/EnemyAI/Blueprints/BP_Scientist_Child.uasset",
 				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/UI/WBP_OptionsMenu.uasset",
 				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/Input/IMC_Fox.uasset"
 			]
