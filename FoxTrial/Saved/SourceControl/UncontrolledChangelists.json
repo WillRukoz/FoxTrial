@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/Level5.umap",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/Level7_1.umap",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Blueprints/IA/BP_CCTV.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/SimpleSpaceInteriors/Meshes/Environment/SM_EnvHole.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/FoxGame/LevelDesing/BP_CameraDestroy.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/FoxGame/LevelDesing/BP_PressureSwitch.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Art/Material/Button/M_Bottunt.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/Level8.umap",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/FoxGame/LevelDesing/BP_DoorButton.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/LevelDesignKit/Meshes/Mechanics/Blueprints/BP_3m_Lift_4m_Height.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/Animations/AS_Dog_Locomotion_Jump_Standing.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/TrueLevel2.umap",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/ABP_Fox.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/BP_FoxCharacter.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Polygon_Dog/Animation/Locomotion/AS_Dog_Locomotion_Landing_Soft.uasset",
+				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Polygon_Dog/Animation/Locomotion/AS_Dog_Locomotion_Falling.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Male.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/PolygonSciFiSpace/Meshes/Characters/SK_Chr_Medic_Male_01.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Male_Skeleton.uasset",
@@ -650,17 +666,7 @@
 				"G:/GitHub/FoxTrial/FoxTrial/Content/PolygonSciFiSpace/Meshes/Characters/SK_Chr_Crew_Male_01_PhysicsAsset.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/PolygonSciFiSpace/Meshes/Characters/Animaciones/Walking.uasset",
 				"G:/GitHub/FoxTrial/FoxTrial/Content/PolygonSciFiSpace/Meshes/Characters/Animaciones/Idle.uasset",
-				"G:/GitHub/FoxTrial/FoxTrial/Content/PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Male_PhysicsAsset.uasset",
-				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/Level5.umap",
-				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/Level7_1.umap",
-				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Blueprints/IA/BP_CCTV.uasset",
-				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/SimpleSpaceInteriors/Meshes/Environment/SM_EnvHole.uasset",
-				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/FoxGame/LevelDesing/BP_CameraDestroy.uasset",
-				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/FoxGame/LevelDesing/BP_PressureSwitch.uasset",
-				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/Art/Material/Button/M_Bottunt.uasset",
-				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/ThirdPerson/Maps/Level8.umap",
-				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/FoxGame/LevelDesing/BP_DoorButton.uasset",
-				"C:/Users/Usuario/Documents/GitHub/FoxTrial/FoxTrial/Content/LevelDesignKit/Meshes/Mechanics/Blueprints/BP_3m_Lift_4m_Height.uasset"
+				"G:/GitHub/FoxTrial/FoxTrial/Content/PolygonSciFiSpace/Meshes/Characters/SK_Chr_SpaceSoldier_Male_PhysicsAsset.uasset"
 			]
 		}
 	]
