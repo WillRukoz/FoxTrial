@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\wilfredo rukoz\\documents\\github\\foxtrial\\foxtrial\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\foxtrial\\module.foxtrial.cpp",
+        "Source": "c:\\users\\usuario\\documents\\github\\foxtrial\\foxtrial\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\foxtrial\\module.foxtrial.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\wilfredo rukoz\\documents\\github\\foxtrial\\foxtrial\\intermediate\\build\\win64\\x64\\foxtrial\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\usuario\\documents\\github\\foxtrial\\foxtrial\\intermediate\\build\\win64\\x64\\foxtrial\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\wilfredo rukoz\\documents\\github\\foxtrial\\foxtrial\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\foxtrial\\definitions.foxtrial.h",
-            "c:\\users\\wilfredo rukoz\\documents\\github\\foxtrial\\foxtrial\\intermediate\\source\\foxtrial.cpp"
+            "c:\\users\\usuario\\documents\\github\\foxtrial\\foxtrial\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\foxtrial\\definitions.foxtrial.h",
+            "c:\\users\\usuario\\documents\\github\\foxtrial\\foxtrial\\intermediate\\source\\foxtrial.cpp"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

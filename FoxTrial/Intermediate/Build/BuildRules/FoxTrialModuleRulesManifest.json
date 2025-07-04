@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Wilfredo Rukoz\\Documents\\GitHub\\FoxTrial\\FoxTrial\\Intermediate\\Source\\FoxTrial.Build.cs",
-		"C:\\Users\\Wilfredo Rukoz\\Documents\\GitHub\\FoxTrial\\FoxTrial\\Intermediate\\Source\\FoxTrial.Target.cs",
-		"C:\\Users\\Wilfredo Rukoz\\Documents\\GitHub\\FoxTrial\\FoxTrial\\Intermediate\\Source\\FoxTrialClient.Target.cs",
-		"C:\\Users\\Wilfredo Rukoz\\Documents\\GitHub\\FoxTrial\\FoxTrial\\Intermediate\\Source\\FoxTrialEditor.Target.cs",
-		"C:\\Users\\Wilfredo Rukoz\\Documents\\GitHub\\FoxTrial\\FoxTrial\\Intermediate\\Source\\FoxTrialServer.Target.cs"
+		"C:\\Users\\Usuario\\Documents\\GitHub\\FoxTrial\\FoxTrial\\Intermediate\\Source\\FoxTrial.Build.cs",
+		"C:\\Users\\Usuario\\Documents\\GitHub\\FoxTrial\\FoxTrial\\Intermediate\\Source\\FoxTrial.Target.cs",
+		"C:\\Users\\Usuario\\Documents\\GitHub\\FoxTrial\\FoxTrial\\Intermediate\\Source\\FoxTrialClient.Target.cs",
+		"C:\\Users\\Usuario\\Documents\\GitHub\\FoxTrial\\FoxTrial\\Intermediate\\Source\\FoxTrialEditor.Target.cs",
+		"C:\\Users\\Usuario\\Documents\\GitHub\\FoxTrial\\FoxTrial\\Intermediate\\Source\\FoxTrialServer.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }
