@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/BP_FoxCharacter.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/__ExternalActors__/ThirdPerson/Maps/Level1/C/OC/C5NBB1UPA1OQNZKC2EPUAB.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/FoxGame/Blueprints/WBP_StaminaBar.uasset",
+				"C:/Users/ferre/OneDrive/Documentos/GitHub/FoxTrial/FoxTrial/Content/Test_Levels/Tryout2.umap",
 				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/UI/WBP_OptionsMenu.uasset",
 				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/Characters/Fox/Input/IMC_Fox.uasset",
 				"C:/Users/Wilfredo Rukoz/Documents/GitHub/FoxTrial/FoxTrial/Content/Audio/Footsteps/BP_FootstepAnimNotify.uasset",
