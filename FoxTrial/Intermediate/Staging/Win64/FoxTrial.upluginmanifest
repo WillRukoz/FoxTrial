@@ -1722,6 +1722,58 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Editor/WaveformEditor/WaveformEditor.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 0,
+				"VersionName": "0.1",
+				"FriendlyName": "Waveform Editor",
+				"Description": "Editor tool for waveforms",
+				"Category": "Audio",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "https://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": true,
+				"IsBetaVersion": true,
+				"Modules": [
+					{
+						"Name": "WaveformEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "WaveformEditorWidgets",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					},
+					{
+						"Name": "WaveformTransformations",
+						"Type": "Editor",
+						"LoadingPhase": "PreDefault"
+					},
+					{
+						"Name": "WaveformTransformationsWidgets",
+						"Type": "Editor",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "AudioSynesthesia",
+						"Enabled": true
+					},
+					{
+						"Name": "AudioWidgets",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/EnhancedInput/EnhancedInput.uplugin",
 			"Descriptor": 
 			{
